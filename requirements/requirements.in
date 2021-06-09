@@ -1,0 +1,10 @@
+sanic==20.12.2
+Sanic-Cors==0.10.0.post3
+
+click==7.1.*
+aiologger==0.6.0
+
+SQLAlchemy==1.3.24
+psycopg2-binary
+asyncpg
+gino
